@@ -1,4 +1,4 @@
-I like to code, but I can't code that good..
+Senior hello world developer
 
 <!---
 c4lyp5o/c4lyp5o is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
